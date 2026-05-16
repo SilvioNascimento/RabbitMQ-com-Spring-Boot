@@ -1,10 +1,10 @@
-package com.rmq.example.publisher;
+package subscriber.src.test.java.com.rmq.example.subscriber;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class PublisherApplicationTests {
+class SubscriberApplicationTests {
 
 	@Test
 	void contextLoads() {
